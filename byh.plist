@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.lenneth.cn/duoduo.ipa</string>
+                   <string>http://bbs.020suv.com/ios/byh.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.lenneth.cn/duoduo.png</string>
+                   <string>http://bbs.020suv.com/ios/byh.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.lenneth.cn/duoduo.png</string>
+                   <string>http://bbs.020suv.com/ios/byh.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.lenneth.duoduo</string>
+               <string>com.guangchang.baoyouhui</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>多多</string>
+               <string>保友会</string>
                <key>title</key>
-               <string>多多</string>
+               <string>保友会</string>
            </dict>
        </dict>
    </array>
